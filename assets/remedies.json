@@ -1,0 +1,42 @@
+{
+    "Chronic sinusitis": {
+      "remedy": "Use a saline nasal spray and stay hydrated.",
+      "rest": "Rest as needed, avoid allergens."
+    },
+    "Influenza": {
+      "remedy": "Take antiviral medication if prescribed, stay hydrated.",
+      "rest": "Rest for 7-10 days, avoid contact with others."
+    },
+    "Leukopenia (leukocytopenia)": {
+      "remedy": "Consult a doctor for blood tests.",
+      "rest": "Rest and avoid infections."
+    },
+    "Urethritis": {
+      "remedy": "Antibiotics as prescribed, increase water intake.",
+      "rest": "Rest and avoid irritants."
+    },
+    "Cough caused by ACE (angiotensin converting enzyme) inhibitor, or ARB (angiotensin receptor blocker)": {
+      "remedy": "Consult doctor to adjust medication.",
+      "rest": "Rest as needed."
+    },
+    "Acute sinusitis": {
+      "remedy": "Use decongestants, saline spray.",
+      "rest": "Rest and avoid irritants."
+    },
+    "Acute retroviral syndrome (ARS), also known as primary HIV infection": {
+      "remedy": "Seek immediate medical evaluation.",
+      "rest": "Rest and follow medical advice."
+    },
+    "Cystitis (urinary tract infection)": {
+      "remedy": "Antibiotics, drink cranberry juice.",
+      "rest": "Rest and stay hydrated."
+    },
+    "History of chronic asthma": {
+      "remedy": "Use inhaler as prescribed, avoid triggers.",
+      "rest": "Rest during flare-ups."
+    },
+    "Viral pharyngitis (etiology usually rhinovirus, coronavirus, adenovirus, parainfluenza)": {
+      "remedy": "Gargle salt water, stay hydrated.",
+      "rest": "Rest for 5-7 days."
+    }
+  }
